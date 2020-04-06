@@ -1,7 +1,5 @@
 # Font Testing Resources
 
--   [kern-king.md](Kern King)
-
 -   <https://github.com/impallari/Font-Testing-Page>
 
 -   <https://justanotherfoundry.com/generator>
