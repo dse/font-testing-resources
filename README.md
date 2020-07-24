@@ -1,5 +1,7 @@
 # Font Testing Resources
 
+-   <https://github.com/andre-fuchs/kerning-pairs>
+
 -   <https://github.com/impallari/Font-Testing-Page>
 
 -   <https://justanotherfoundry.com/generator>
