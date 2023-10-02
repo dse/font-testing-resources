@@ -1,0 +1,39 @@
+----------------------------------------
+AB(CD)E[FG]H{IJ}KL<MN>OP‘QR’S“TU”V'WX'YZ
+ab(cd)e[fg]h{ij}kl<mn>op‘qr’s“tu”v"wx"yz
+.,:;!?#$%&*+-/=@\^_`|~ ¡!¿?‽ +−±×÷<=> %‰
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞß·$¢£¤¥·†‡
+àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ•©®™¶§•µə
+′″‴¹²³¼½¾°
+
+   WAFTING ZEPHYRS QUICKLY VEX BOLD JIM.
+pack my box with five dozen liquor jugs.
+ Mr. Jock, TV quiz Ph.D., bags few lynx.
+  GQ’s oft lucky whiz Dr. J, ex-NBA MVP.
+
+
+
+Two driven jocks help fax my big quiz.
+Waltz, nymph, for quick jigs vex Bud.
+Sphinx of black quartz, judge my vow.
+How vexingly quick daft zebras jump!
+Jackdaws love my big sphinx of quartz.
+
+Watch “Jeopardy!”, Alex Trebek’s fun TV quiz game.
+
+
+const $characters = [
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    'abcdefghijklmnopqrstuvwxyz',
+    { "digits": "0123456789" },
+    { "quotes": "‘’“”«»" },
+    { "nonambiguity": "1Il0O" },
+    { "punct": "~" },
+];
+
+10 PRINT"A? ";:INPUT A
+11 PRINT"B? ";:INPUT B
+12 PRINT"C? ";:INPUT C
+20 LET R1=-A+SQRT(B^2-4*A*C))/(2*A)
+30 LET R2=-A-SQRT(B^2-4*A*C))/(2*A)
+40 PRINT "ROOTS ARE ",R1," AND ",R2
