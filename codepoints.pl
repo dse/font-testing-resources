@@ -1,13 +1,14 @@
 #!/usr/bin/env perl
 use warnings;
 use strict;
-use open IO => ":locale";
+STDIN->binmode(":utf8");
+STDOUT->binmode(":utf8");
 
 my %counts;
 
 while (<>) {
     s{\R\z}{};
-    my @chars = split('', $_);
+    my @chars = split(//, $_);
     foreach my $char (@chars) {
         $counts{ord($char)} += 1;
     }
