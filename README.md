@@ -1,5 +1,7 @@
 # Font Testing Resources
 
+-   <https://typespecimens.xyz/builder/> - a specimen generator
+
 -   <https://github.com/andre-fuchs/kerning-pairs>
 
 -   <https://github.com/impallari/Font-Testing-Page>
